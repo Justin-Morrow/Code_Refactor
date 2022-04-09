@@ -1,5 +1,5 @@
 # code_refactor
-![Thumbnail](images/Code%20Refector_thumbnail.jpg)](https://justin-morrow.github.io/code_refactor/)
+![Thumbnail](images/Code%20Refector_thumbnail.jpg)(https://justin-morrow.github.io/code_refactor/)
 ## Table of Contents
 
 - [Description](#Description)
@@ -22,7 +22,7 @@ The project is an assignment that asks for the web developer to edit the code, m
 
 ## Installation
 
-The program requires a basic opearting system such as windows or iOS. The user also needs Visual Basic and a web browswer. 
+The program requires a basic opearting system such as windows or iOS. The user also needs Visual Studio Code and a web browswer. 
 
 ## Instructions
 
@@ -34,17 +34,14 @@ This application is covered under the GNU GPLv3.0 License.
 
 ## Contribute
 
-Evelyn G Maldonado
+Evelyn G Maldonado.
 
 ## Tests
 
-No Tests
-
+No Tests.
 
 ## Questions
 
 If you have questions, please contact me at the information below:
 
 GitHub: [Justin Morrow](https://github.com/Justin-Morrow)
-
-More
