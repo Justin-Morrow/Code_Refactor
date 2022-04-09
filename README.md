@@ -1,5 +1,5 @@
 # code_refactor
-
+![Thumbnail](images/Code%20Refector_thumbnail.png)](https://justin-morrow.github.io/code_refactor/)
 ## Table of Contents
 
 - [Description](#Description)
