@@ -45,6 +45,6 @@ No Tests
 
 If you have questions, please contact me at the information below:
 
-GitHub: Justin-Morrow
+GitHub: [Justin Morrow](https://github.com/Justin-Morrow)
 
 More
