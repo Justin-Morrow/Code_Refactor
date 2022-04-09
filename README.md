@@ -1,5 +1,5 @@
 # code_refactor
-![Thumbnail](images/Code%20Refector_thumbnail.png)](https://justin-morrow.github.io/code_refactor/)
+![Thumbnail](images/Code%20Refector_thumbnail.jpg)](https://justin-morrow.github.io/code_refactor/)
 ## Table of Contents
 
 - [Description](#Description)
@@ -17,38 +17,34 @@
 - [Questions](#Questions)
 
 ## Description
-Commodo nostrud elit et occaecat consectetur aliqua pariatur elit sit dolor. Ea exercitation nulla exercitation dolor duis occaecat. Ex velit eu eu aute do officia duis dolor et nostrud eiusmod irure ut culpa. Velit esse est eiusmod reprehenderit laboris ex. Nostrud excepteur reprehenderit laborum duis eiusmod minim mollit adipisicing excepteur.
-This is a backend app that uses html templates, nodeJS and prompts the user using inquirer package for team members to be added into a team and finally generates and saves the team.html in output directory.
+
+The project is an assignment that asks for the web developer to edit the code, make fixes and take out code that is redundant in order to make future updates easier.
 
 ## Installation
 
-Commodo nostrud elit et occaecat consectetur aliqua pariatur elit sit dolor. Ea exercitation nulla exercitation dolor duis occaecat. Ex velit eu eu aute do officia duis dolor et nostrud eiusmod irure ut culpa. Velit esse est eiusmod reprehenderit laboris ex. Nostrud excepteur reprehenderit laborum duis eiusmod minim mollit adipisicing excepteur.
-This is a backend app that uses html templates, nodeJS and prompts the user using inquirer package for team members to be added into a team and finally generates and saves the team.html in output directory.
+The program requires a basic opearting system such as windows or iOS. The user also needs Visual Basic and a web browswer. 
 
 ## Instructions
 
-Commodo nostrud elit et occaecat consectetur aliqua pariatur elit sit dolor. Ea exercitation nulla exercitation dolor duis occaecat. Ex velit eu eu aute do officia duis dolor et nostrud eiusmod irure ut culpa. Velit esse est eiusmod reprehenderit laboris ex. Nostrud excepteur reprehenderit laborum duis eiusmod minim mollit adipisicing excepteur.
-This is a backend app that uses html templates, nodeJS and prompts the user using inquirer package for team members to be added into a team and finally generates and saves the team.html in output directory.
+Use HTML and CSS to define structure and style into the webpage from its previous version. Use GITHUB to push the website into a respository for public view.
 
 ## License
 
-Commodo nostrud elit et occaecat consectetur aliqua pariatur elit sit dolor. Ea exercitation nulla exercitation dolor duis occaecat. Ex velit eu eu aute do officia duis dolor et nostrud eiusmod irure ut culpa. Velit esse est eiusmod reprehenderit laboris ex. Nostrud excepteur reprehenderit laborum duis eiusmod minim mollit adipisicing excepteur.
-This is a backend app that uses html templates, nodeJS and prompts the user using inquirer package for team members to be added into a team and finally generates and saves the team.html in output directory.
+This application is covered under the GNU GPLv3.0 License.
 
 ## Contribute
 
-Commodo nostrud elit et occaecat consectetur aliqua pariatur elit sit dolor. Ea exercitation nulla exercitation dolor duis occaecat. Ex velit eu eu aute do officia duis dolor et nostrud eiusmod irure ut culpa. Velit esse est eiusmod reprehenderit laboris ex. Nostrud excepteur reprehenderit laborum duis eiusmod minim mollit adipisicing excepteur.
-This is a backend app that uses html templates, nodeJS and prompts the user using inquirer package for team members to be added into a team and finally generates and saves the team.html in output directory.
+Evelyn G Maldonado
 
 ## Tests
 
-Commodo nostrud elit et occaecat consectetur aliqua pariatur elit sit dolor. Ea exercitation nulla exercitation dolor duis occaecat. Ex velit eu eu aute do officia duis dolor et nostrud eiusmod irure ut culpa. Velit esse est eiusmod reprehenderit laboris ex. Nostrud excepteur reprehenderit laborum duis eiusmod minim mollit adipisicing excepteur.
-This is a backend app that uses html templates, nodeJS and prompts the user using inquirer package for team members to be added into a team and finally generates and saves the team.html in output directory.
+No Tests
 
 
 ## Questions
 
-Commodo nostrud elit et occaecat consectetur aliqua pariatur elit sit dolor. Ea exercitation nulla exercitation dolor duis occaecat. Ex velit eu eu aute do officia duis dolor et nostrud eiusmod irure ut culpa. Velit esse est eiusmod reprehenderit laboris ex. Nostrud excepteur reprehenderit laborum duis eiusmod minim mollit adipisicing excepteur.
-This is a backend app that uses html templates, nodeJS and prompts the user using inquirer package for team members to be added into a team and finally generates and saves the team.html in output directory.
+If you have questions, please contact me at the information below:
+
+GitHub: Justin-Morrow
 
 More
