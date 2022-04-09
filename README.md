@@ -34,7 +34,7 @@ This application is covered under the GNU GPLv3.0 License.
 
 ## Contribute
 
-Evelyn G Maldonado.
+Justin Morrow
 
 ## Tests
 
