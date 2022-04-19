@@ -22,7 +22,7 @@ The project is an assignment that asks for the web developer to edit the code, m
 
 ## Installation
 
-The program requires a basic opearting system such as windows or iOS. The user also needs Visual Studio Code and a web browswer. 
+The program requires a basic opearting system such as windows or iOS. The developer also needs Visual Studio Code and a web browswer. 
 
 ## Instructions
 
